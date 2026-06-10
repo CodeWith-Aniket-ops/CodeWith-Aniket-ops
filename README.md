@@ -26,7 +26,11 @@
 
 - ⚡ Fun fact **I fix errors I didn't make**
 
----
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Left Line" width="70%" />
+</div>
+
 
 ### 🔥 About Me:
 
@@ -47,7 +51,20 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/def_aniket.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketpal-tech) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/def_aniket) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AniketP36333283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palaniket497@gmail.com) 
+<p align="laft">
+  <a href="www.linkedin.com/in/aniketpal-tech">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/AniketP36333283">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/7439200376">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:palaniket497@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
 <!-- 2d Game Repo View -->
 
@@ -77,26 +94,21 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=CodeWith-Aniket-ops&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=CodeWith-Aniket-ops&theme=default_repocard&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=CodeWith-Aniket-ops&theme=default_repocard&hide_border=false)
+![Top language](https://stats.pphat.top/languages?username=CodeWith-Aniket-ops)<br/>
 
 </div>
-
-<div align="center">
-
-[![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWith-Aniket-ops&theme=dark)](https://github.com/CodeWith-Aniket-ops)
-
-</div>
-
-<div align="center">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<div align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
