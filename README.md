@@ -1,5 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=180&section=header&text=Aniket%20Pal&fontColor=ffffff&fontSize=42&fontAlignY=32&desc=Building%20Apps%20|%20Exploring%20Modern%20Technologies%20|%20Growing%20Every%20Day%20🚀&descColor=E3F2FD&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+
+</div>
+
 <h1 align="center"> Hey there 👋, I'm Aniket Pal </h1>
 <h3 align="center"> Passionate About App Development, AI & Modern Technologies </h3>
 <img align="right" alt="Coding" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY0Y2p3eHM1cjR0N2FrMHpidWNzY3dpbGhtaDN1NnQ5cjdidXc4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.webp">
@@ -23,8 +30,8 @@
 
 - 🎓 Currently pursuing **BCA** at *B. P. Poddar Institute of Management & Technology, Kolkata*.
 - 💻 Passionate about App Development and modern software technologies.
--  🤖 AI Enthusiast exploring Artificial Intelligence, Data Management, and Automation.
 - 🐍 Working with Python, C, and SQL while continuously improving my technical skills.
+- 🤖 Exploring AI/ML, Cloud, Automation and Modern Technologies.
 - 🚀 Focused on learning, building projects, and growing as a future technology professional.
 
 ---
@@ -69,15 +76,32 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodeWith-Aniket-ops&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
+---
 
 
 <div align="center">
   
-💡 **"🚀 Learning Today, Building Tomorrow...!!"**
+### 🌟 "Turning ideas into apps, one line at a time...!!" ✨
+
+**Thanks for Visiting My Profile! 🚀✨**
+
+--- 
+
+**Built with ❤️, coffee ☕, and countless hours of coding by Aniket Pal**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=App+Developer;AI+Enthusiast;UI%2FUX+Enthusiast;Open+to+Collaborations+and+Opportunities;Content+Creator;Always+Learning+New+Things;Thanks+for+Visiting+My+Profile!+🚀)
 
 </div>
 
+
+
+<p align="center">
+  <i>Happy Coding • Keep Learning • Keep Building 💙</i>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
