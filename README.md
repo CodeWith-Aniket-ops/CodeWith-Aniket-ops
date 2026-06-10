@@ -27,7 +27,7 @@
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Left Line" width="70%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Left Line" width="65%" />
 </div>
 
 
@@ -90,12 +90,33 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+# 🎯 Current Goals:
+- 🚀 Build useful projects
+- 📚 Learn modern technologies
+- 🤝 Contribute to open source
+- 💼 Prepare for internships
+
+
 <div align="center">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
+## 🏆 My Achievements:
+- 🥉 Secured 3rd Prize in an Essay Writing Competition on AI,
+- 🎓 Google AI Essentials and Prompt Specialization by Google (Coursera),
+- ☁️ AWS Summit & Future Tech Sessions Participant,
+- 📜 Earned Multiple Industry Certifications and skill Badges, 
+- 🚀 Passionate about continuous learning and skill development.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
+## 🤝 Open To:
+- 🤝 Open to Collaborations
+- 💼 Open to New Opportunities
+- 📚 Learning and Networking
+- 🚀 Open Source Contributions
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
