@@ -51,20 +51,8 @@
 
 
 ## 🌐 Socials:
-<p align="laft">
-  <a href="www.linkedin.com/in/aniketpal-tech">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/AniketP36333283">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/7439200376">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:palaniket497@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/def_aniket.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketpal-tech) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AniketP36333283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palaniket497@gmail.com) 
 
 <!-- 2d Game Repo View -->
 
