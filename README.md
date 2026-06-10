@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **AI and C programing**
 
+- 📝 I regularly write articles on [neogyan.in](https://www.neogyan.in/)
+
 - 📫 How to reach me **palaniket497@gmail.com**
 
 - ⚡ Fun fact **I fix errors I didn't make**
@@ -46,10 +48,13 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
+<div align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=CodeWith-Aniket-ops&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=CodeWith-Aniket-ops&theme=default_repocard&hide_border=false)<br/>
+
+</div>
 
 <div align="center">
 
