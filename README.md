@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **palaniket497@gmail.com**
 
-- ⚡ Fun fact **I fix errors I didn't make**
+- ⚡ Fun fact **I fix errors I didn't make 🥲**
 
 
 <div align="center">
@@ -91,33 +91,35 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-# 🎯 Current Goals:
-- 🚀 Build useful projects
-- 📚 Learn modern technologies
-- 🤝 Contribute to open source
-- 💼 Prepare for internships
+## 🏆 My Achievements:
+- 🥉 Secured **3rd position** in an Essay Writing Competition on **AI**,
+- 🎓 Google **AI Essentials and Prompt Specialization** by Google (Coursera),
+- ☁️ **AWS Summit** & Other **Future Tech** Sessions Participant,
+- 📜 Earned Multiple **Industry recognised Certifications** and **Skill Badges**, 
+- 🚀 Passionate about **Continuous learning** and **Future skill development**.
 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-## 🏆 My Achievements:
-- 🥉 Secured 3rd Prize in an Essay Writing Competition on AI,
-- 🎓 Google AI Essentials and Prompt Specialization by Google (Coursera),
-- ☁️ AWS Summit & Future Tech Sessions Participant,
-- 📜 Earned Multiple Industry Certifications and skill Badges, 
-- 🚀 Passionate about continuous learning and skill development.
+# 🎯 Current Goals:
+- 🚀 Build **Real World** projects.
+- 📚 Learn **Core CS & Modern Technologies**.
+- 🌟 Focusing **Communication, Body language, Presentation skills**.
+- 🤝 Contribute to **open source**.
+- 💼 Prepare for **internships and Opportunities**.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
 ## 🤝 Open To:
-- 🤝 Open to Collaborations
-- 💼 Open to New Opportunities
-- 📚 Learning and Networking
-- 🚀 Open Source Contributions
+- 🤝 Open to Collaborations.
+- 💼 Open to New Opportunities.
+- 📚 Learning and Networking.
+- 🚀 Open Source Contributions.
+- 🌟 Always preparing for helping juniors.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
@@ -127,7 +129,7 @@
   
 ### 🌟 "Turning ideas into apps, one line at a time...!!" ✨
 
-**Thanks for Visiting My Profile! 🚀✨**
+**Thanks For Visiting My Profile! 🚀✨**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
