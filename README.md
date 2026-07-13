@@ -83,18 +83,19 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757.svg?style=for-the-badge&logo=Claude_Code)
 ![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-005FED.svg?style=for-the-badge&logo=Antigravity_CLI) 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) 
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) 
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Google_ADK](https://img.shields.io/badge/Google_ADK-FF0000.svg?style=for-the-badge&logo=Google_ADK)
+![AI_Agent_Development](https://img.shields.io/badge/AI_Agent_Development-005571.svg?style=for-the-badge&logo=AI_Agent_Development)
 
 ### Design & visualisation tool:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel_With_AI](https://img.shields.io/badge/Excel_With_AI-0F9D58.svg?style=for-the-badge&logo=Excel_With_AI)
 
 ### Tools & Others
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-     
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
