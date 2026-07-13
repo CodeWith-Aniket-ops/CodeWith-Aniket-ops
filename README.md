@@ -93,7 +93,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel_With_AI](https://img.shields.io/badge/Excel_With_AI-0F9D58.svg?style=for-the-badge&logo=Excel_With_AI)
 
-### Tools & Others
+### Tools & Others:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
