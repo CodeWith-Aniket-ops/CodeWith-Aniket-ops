@@ -72,25 +72,19 @@
 # 💻 Tech Stack:
 
 ### Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Developer Tools:
 ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2.svg?style=for-the-badge&logo=Gemini_CLI)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757.svg?style=for-the-badge&logo=Claude_Code)
 ![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-005FED.svg?style=for-the-badge&logo=Antigravity_CLI) 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) 
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![Google_ADK](https://img.shields.io/badge/Google_ADK-FF0000.svg?style=for-the-badge&logo=Google_ADK)
 ![AI_Agent_Development](https://img.shields.io/badge/AI_Agent_Development-005571.svg?style=for-the-badge&logo=AI_Agent_Development)
 
 ### Design & visualisation tool:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel_With_AI](https://img.shields.io/badge/Excel_With_AI-0F9D58.svg?style=for-the-badge&logo=Excel_With_AI)
 
 ### Tools & Others:
